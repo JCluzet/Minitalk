@@ -3,7 +3,7 @@ Minitalk is a project of the school 42 which consists in studying the SIGNAL fun
 
 ## How to use ?
 
-#### *** Only Compatible with MacOS and Linux ***
+#### *** Only Compatible with MacOS ***
 #### >> ./Make for create the requires files.
 #### >> Launch server with ./server
 #### >> Next, launch the server with the PID provided by the server and your message.
